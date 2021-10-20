@@ -1,0 +1,1 @@
+ls | tee sorted.txt | wc -l
